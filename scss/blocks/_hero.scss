@@ -1,0 +1,115 @@
+.section-1 {
+  width: 994px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 70px;
+}
+
+.box__box-registration {
+  width: 434px;
+}
+
+.box__box-title {
+  font-family: Paytone One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 89px;
+  color: #ffffff;
+}
+
+.box__box-span {
+  display: block;
+  font-family: Paytone One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  color: #ffffff;
+}
+
+.box__box-text {
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 149.8%;
+  color: #ffffff;
+}
+
+.box__box-inner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box-inner__form {
+  width: 291px;
+  height: 36px;
+  padding-left: 35px;
+  padding-right: 131px;
+  padding-top: 7px;
+  box-sizing: border-box;
+  border-color: transparent;
+  border-radius: 50px;
+  border: 2px solid rgba(255, 255, 255, 0.4);
+}
+
+.box-inner__input {
+  font-family: Pavanam;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  border: none;
+  background-color: transparent;
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.box-inner__button {
+  background: linear-gradient(
+    180deg,
+    rgba(50, 42, 39, 0) 0%,
+    rgba(45, 40, 40, 0.85) 33.85%,
+    #2d2828 49.48%,
+    #2d2828 68.75%,
+    #2d2828 82.29%,
+    #2d2828 100%
+  );
+  padding: 9px 22px;
+  font-family: Pavanam;
+  font-style: normal;
+  font-weight: normal;
+  border: none;
+  font-size: 14px;
+  line-height: 18px;
+  color: rgba(255, 255, 255, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-sizing: border-box;
+  box-shadow: -15px 0px 15px rgba(0, 0, 0, 0.3);
+  box-sizing: border-box;
+  border-radius: 50px;
+  border: 2px solid #ff1640;
+}
+
+.section-1__inner {
+  margin-top: 100px;
+}
+
+.section-1__section-nav {
+  width: 950px;
+}
+
+.section-1__section-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+}
+
+.line {
+  width: 950px;
+  margin-right: 500px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}

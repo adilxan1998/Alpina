@@ -1,0 +1,152 @@
+.author__box {
+  width: 453px;
+  margin-left: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.box__span {
+  width: 35px;
+  height: 35px;
+  border-radius: 50px;
+  border: none;
+  background: #ff1640;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 149.8%;
+  color: #ffffff;
+}
+
+.box__text-1 {
+  margin-right: 80px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 149.8%;
+  color: #ffffff;
+}
+
+.box__dismiss {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 131px;
+  height: 35px;
+  background: url(.jpg), #c4c4c4;
+  border-radius: 50px;
+}
+
+.box__img {
+  margin-left: 10px;
+}
+
+.box__text-2 {
+  margin-right: 10px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 149.8%;
+  color: #2d2828;
+}
+
+.glavni-div {
+  width: 842px;
+  height: 135px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.glavni-div__box-2 {
+  width: 453px;
+  height: 128px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-image: url(/img/Rectangle-13.png);
+  background-repeat: no-repeat;
+}
+
+.box-2__rosario {
+  width: 139px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.rosario__box {
+  width: 67px;
+}
+
+.rosario__title {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 149.8%;
+  color: #2d2828;
+}
+
+.rosario__text {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 149.8%;
+  color: rgba(45, 40, 40, 0.7);
+}
+
+.box-2__customers {
+  width: 251px;
+}
+
+.customers__customers-title {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 149.8%;
+  color: #2d2828;
+}
+
+.customers__customers-text {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 149.8%;
+  color: #2d2828;
+}
+
+.glavni-div__start-a-thread {
+  width: 315px;
+}
+
+.glavni-div__title {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 149.8%;
+  color: #ffffff;
+  opacity: 0.7;
+}
+
+.glavnui-div__text {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 149.8%;
+  color: #ffffff;
+  opacity: 0.7;
+}

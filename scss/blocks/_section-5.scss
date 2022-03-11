@@ -1,0 +1,41 @@
+.section-5__list {
+  width: 842px;
+  height: 117px;
+  margin-top: -600px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-5__inner {
+  width: 842px;
+  display: flex;
+  justify-content: space-around;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 100px;
+}
+
+.section-5__box-1 {
+  width: 268px;
+}
+
+.section-5-inner-box {
+  width: 246px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.section-5__text {
+  width: 268px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 149.8%;
+  color: #000000;
+}
