@@ -720,7 +720,7 @@ template {
           align-items: center;
   -ms-flex-pack: distribute;
       justify-content: space-around;
-  background-image: url(/img/Rectangle-13.png);
+  background-image: url(../../img/Rectangle-13.png);
   background-repeat: no-repeat;
 }
 
@@ -843,7 +843,7 @@ template {
           align-items: center;
   -ms-flex-pack: distribute;
       justify-content: space-around;
-  background: url(.jpg), #c4c4c4;
+  background: #c4c4c4;
   border-radius: 50px;
 }
 
@@ -875,7 +875,7 @@ template {
           align-items: center;
   -ms-flex-pack: distribute;
       justify-content: space-around;
-  background-image: url("/img/Rectangle-13.png");
+  background-image: url("../../img/Rectangle-13.png");
   background-repeat: no-repeat;
 }
 
