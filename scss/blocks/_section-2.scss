@@ -9,3 +9,9 @@
   display: flex;
   list-style-type: none;
 }
+
+.section-2__list-item:hover {
+  position: relative;
+  margin-top: -40px;
+  transform: scale(1.2);
+}

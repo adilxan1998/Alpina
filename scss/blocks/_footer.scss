@@ -1,8 +1,29 @@
+.footer__bc {
+  width: 168px;
+  height: 168px;
+  top: -80px;
+  padding-top: 20px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(../img/footer-bc.png);
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.footer__bc-img {
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: red;
+}
+
 .footer__footer-inner {
   width: 1210px;
   display: flex;
   align-items: center;
-  padding-top: 150px;
   margin-left: auto;
   margin-right: auto;
 }
