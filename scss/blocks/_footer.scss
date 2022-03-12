@@ -1,14 +1,15 @@
 .footer__bc {
   width: 168px;
   height: 168px;
+  position: absolute;
   top: -80px;
+  left: 520px;
   padding-top: 20px;
   border-radius: 50%;
   margin-left: auto;
   margin-right: auto;
   background-image: url(../img/footer-bc.png);
   background-repeat: no-repeat;
-  position: relative;
 }
 
 .footer__bc-img {
@@ -22,10 +23,12 @@
 
 .footer__footer-inner {
   width: 1210px;
+  padding-top: 100px;
   display: flex;
   align-items: center;
   margin-left: auto;
   margin-right: auto;
+  position: relative;
 }
 
 .footer-inner__logo {
